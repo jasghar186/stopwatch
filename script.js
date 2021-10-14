@@ -7,7 +7,7 @@ $("document").ready(function(){
     var startbtn = $(".startbtn") ;
     var stopbtn = $(".stopbtn") ;
     var resetbtn = $(".resetbtn") ;
-    var container = $(".container")
+    var container = $(".counter_container")
     var interval ;
 
     //    buttons events
